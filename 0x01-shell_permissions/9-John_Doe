@@ -1,2 +1,3 @@
-#!/bin/bash
-chmod u=rwx,g=x,o=wx hello
+
+0;136;0c#!/bin/bash
+chmod 004 hello

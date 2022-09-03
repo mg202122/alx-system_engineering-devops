@@ -1,3 +1,2 @@
-
-0;136;0c#!/bin/bash
-chmod 004 hello
+#!/bin/bash
+chmod 753 hello
